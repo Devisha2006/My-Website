@@ -1,0 +1,16 @@
+.home-left h1{
+    font-size: 3rem;
+    color: #555;
+}
+.home-left pre{
+    font-size: 1.3rem;
+    color: #555;
+    font-family: 'Segoe UI', sans-serif;
+    
+}
+.home-right img{
+    width: 300px;
+    border: 4px solid #555;
+    box-shadow: 0 4px 8px rgba(0,0, 0, 0.1);
+    border-radius: 10px;
+}
